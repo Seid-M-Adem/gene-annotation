@@ -1,0 +1,32 @@
+# Core Python Libraries
+numpy
+pandas
+matplotlib
+seaborn
+jupyter
+
+# Bioinformatics Tools
+biopython
+pybedtools
+pyfaidx
+scipy
+
+# Sequence Alignment & Variant Calling
+bwa
+samtools
+gatk4
+hisat2
+
+# Gene Prediction & Annotation
+augustus
+maker
+blast
+interproscan
+eggnog-mapper
+
+# Workflow Automation
+snakemake
+nextflow
+
+# Testing & Validation
+pytest
