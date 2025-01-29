@@ -1,6 +1,6 @@
 # 🧬 Gene Annotation Pipeline
 
-🚀 **A fully automated workflow for DNA sequencing data analysis, gene prediction, and functional annotation.**  
+ **A fully automated workflow for DNA sequencing data analysis, gene prediction, and functional annotation.**  
 Built for **reproducibility** using **Snakemake, Conda, and Docker**—ready to run on **GitHub Codespaces**!
 
 ---
@@ -74,7 +74,7 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## 💡 Start annotating genes now – click "Code" → "Create Codespace on main"! 
 
-### **🚀 What's New in This Update:**
+### ** What's New in This Update:**
 ✅ **Separate sections for GitHub Codespaces & Local Setup**  
 ✅ **Added manual dependency installation (`pip install -r requirements.txt`)**  
 ✅ **Improved formatting for better readability**  
